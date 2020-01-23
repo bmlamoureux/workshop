@@ -2,10 +2,11 @@
 
 Brooke Lamoureux
 
-## Informal Responces
+### Informal Responces
 
 1. Blumenstock (Jan. 28)
+2. ...
 
-## Formal Assignments 
+### Formal Assignments 
 
 1. Annoteded Bibliography
