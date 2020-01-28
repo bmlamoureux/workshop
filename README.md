@@ -4,7 +4,7 @@ Brooke Lamoureux
 
 ### Informal Responces
 
-1.[Blumenstock Responce](https://github.com/bmlamoureux/workshop/blob/master/blumenstock.md2.)
+1.[Blumenstock Responce](https://github.com/bmlamoureux/workshop/blob/master/blumenstock.md2.) Jan. 28
 ### Projects
 
 1. 
