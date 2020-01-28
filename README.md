@@ -4,7 +4,7 @@ Brooke Lamoureux
 
 ### Informal Responces
 
-1. Blumenstock (Jan. 28)
+1. Blumenstock (Jan. 28) [Blumenstock responce extra](
 2. ...
 
 ### Projects
