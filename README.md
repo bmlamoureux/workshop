@@ -4,9 +4,8 @@ Brooke Lamoureux
 
 ### Informal Responces
 
-1. Blumenstock (Jan. 28) [Blumenstock responce extra](
-2. ...
-
+1. Blumenstock (Jan. 28) [Blumenstock responce extra](https://github.com/bmlamoureux/workshop/blob/master/blumenstock.md2. ...
+)
 ### Projects
 
 1. 
