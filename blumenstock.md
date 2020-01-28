@@ -14,5 +14,5 @@ Ways forward?
 - Blumenstock is hinting at an attempt at merging the new and old ways of data science. The idea that new sources of data should be considered right along side old sources is possibly the best way to move forward and see the results we want to see. Everyone must work together: data scientists, development experts, governments, civil society, and the private sector. This way, we can avoid some issues such as biased algorithms in order to include everyone, even the people that are poorly represented. 
 
 In Conclusion, 
-- Many data scientists and human developers think they have “good intent” when making decisions and looking at data. They only look at the promises big data holds, such as, 
+- Data scientists and human developers should work together in all aspects to insure the promises of big data are met. Another way to move forwrad in the process is to get researchers out on the feild. Problems arise when there is no understanding about what is actually happening. We need people out in the world getting a feel for the real world surroundings. This will improve our data and hopefully improve humans development and their qualities of life. 
 
