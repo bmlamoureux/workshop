@@ -5,6 +5,8 @@ Brooke Lamoureux
 ### Informal Responces
 
 1.[Blumenstock Responce](https://github.com/bmlamoureux/workshop/blob/master/blumenstock.md) Jan. 28
+
+2. Perkel Responce
 ### Projects
 
 1. 
