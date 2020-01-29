@@ -7,7 +7,7 @@
 
 3. Another challenge:  that mapping data can be represented using any of several projections (If different data sets use different projections, overlaying multiple datasets will result in locations not matching up.)
 
-4. Mapping data can also come in two basic forms:Vector files, Raster files 
+4. Mapping data can also come in two basic forms: Vector files, Raster files 
 
 5. Programming tools provide an attractive alternative to desktop tools, says Rey. “They’re just a lot more flexible.”
 
