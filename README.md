@@ -6,7 +6,7 @@ Brooke Lamoureux
 
 1.[Blumenstock Responce](https://github.com/bmlamoureux/workshop/blob/master/blumenstock.md) Jan. 28
 
-2.[Perkel Responce]( Jan. 30
+2.[Perkel Responce](https://github.com/bmlamoureux/workshop/blob/master/perkel.md) Jan. 30
 ### Projects
 
 1. 
