@@ -8,8 +8,7 @@ Brooke Lamoureux
 
 1.[Blumenstock Responce](https://bmlamoureux.github.io/workshop/blumenstock/) Jan. 28 
 
-https://bmlamoureux.github.io/workshop/blumenstockresponce/)
-
+(https://bmlamoureux.github.io/workshop/blumenstock/)
 
 2.[Perkel Responce](https://github.com/bmlamoureux/workshop/blob/master/perkel.md) Jan. 30
 ### Projects
