@@ -6,7 +6,7 @@ Brooke Lamoureux
 
 1.[Blumenstock Responce](https://github.com/bmlamoureux/workshop/blob/master/blumenstock.md) Jan. 28
 
-1.[Blumenstock Responce](https://bmlamoureux.github.io/workshop/blumenstock/)Jan. 28 
+1.[Blumenstock Responce](https://bmlamoureux.github.io/workshop/blumenstock/) Jan. 28 
 
 https://bmlamoureux.github.io/workshop/blumenstock/)
 
