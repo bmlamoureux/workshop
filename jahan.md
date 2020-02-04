@@ -41,9 +41,12 @@
 6. work during crisis/ post crisis
 
 ## Responce:
+	
+Some of the targeted issues that Jahan examples as requiring focus though out the world include the 
+capabilities of humans, and the opportunities humans choose to exercise their capabilities. He defines human development as the process of enlarging human choices. What Jahan means by this is that human development is measured by looking into the choices humans make, determining the outcome of their choice, and what that might mean about that specific human. The different measures incorporated into the Human Development Index include: healthy life expectancy, knowledge, and standard of living. These measures capture the breadth and focus of each countries average achievement. Jahan used the following metaphor to describe the two different measurements involved in the HDI: the breadth measure serves as the entire house, and the focus measure serves as the doorway to the house. Both together captures the countries’ average achievement. 
 
-	Some of the targeted issues that Jahan examples as requiring focus though out the world include the capabilities of humans, and the opportunities humans choose to exercise their capabilities. He defines human development as the process of enlarging human choices. What Jahan means by this is that human development is measured by looking into the choices humans make, determining the outcome of their choice, and what that might mean about that specific human. The different measures incorporated into the Human Development Index include: healthy life expectancy, knowledge, and standard of living. These measures capture the breadth and focus of each countries average achievement. Jahan used the following metaphor to describe the two different measurements involved in the HDI: the breadth measure serves as the entire house, and the focus measure serves as the doorway to the house. Both together captures the countries’ average achievement. 
-	An example Rosling presented in his speech that showed health appearing to be a precursor to wealth was his example of child survival percentage and GDP per capita. As the child survival rate in the United Arab Emirates increased, so did the gross domestic product per person. Rosling also warns that using averages could overlook reality. 
+An example Rosling presented in his speech that showed health appearing to be a precursor to wealth was his example of child survival percentage and GDP per capita. As the child survival rate in the United Arab Emirates increased, so did the gross domestic product per person. Rosling also warns that using averages could overlook reality. 
+
 
       
   
