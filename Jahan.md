@@ -1,8 +1,8 @@
 ## Notes:
 
 1. human development: the process of enlarging human choices 
-  1. capabilities of humans have to be enhanced 
-  2. oportunites of humans to use those capabilities have to be improved
+     1. capabilities of humans have to be enhanced 
+     2. oportunites of humans to use those capabilities have to be improved
   
 2. development *of* the people:
   becuase we are interested in developing human capital
@@ -27,8 +27,8 @@
 ## Notes Continued:
 
 1. rethinkning work for human development:
-  1. creative work of literary personalities, work we do within families, voluntary work
-  2. contribute to human well being
+     1. creative work of literary personalities, work we do within families, voluntary work
+     2. contribute to human well being
 
 2. issue of youth employment 
   
