@@ -1,4 +1,4 @@
-##Notes:
+## Notes:
 
 1. human development: the process of enlarging human choices 
   a. capabilities of humans have to be enhanced 
@@ -24,7 +24,7 @@
       2. knowledge 
       3. standard of living
       
-##Notes Continued:
+## Notes Continued:
 
 1. rethinkning work for human development:
   a. creative work of literary personalities, work we do within families, voluntary work
