@@ -3,6 +3,7 @@
 1. human development: the process of enlarging human choices 
 
   a. capabilities of humans have to be enhanced 
+  
   b. oportunites of humans to use those capabilities have to be improved
   
 2. development *of* the people:
