@@ -1,4 +1,18 @@
-## Notes:
+## Original Responce:
+	
+Some of the targeted issues that Jahan examples as requiring focus though out the world include the 
+capabilities of humans, and the opportunities humans choose to exercise their capabilities. He defines human development as the process of enlarging human choices. What Jahan means by this is that human development is measured by looking into the choices humans make, determining the outcome of their choice, and what that might mean about that specific human. The different measures incorporated into the Human Development Index include: healthy life expectancy, knowledge, and standard of living. These measures capture the breadth and focus of each countries average achievement. Jahan used the following metaphor to describe the two different measurements involved in the HDI: the breadth measure serves as the entire house, and the focus measure serves as the doorway to the house. Both together captures the countries’ average achievement. 
+
+An example Rosling presented in his speech that showed health appearing to be a precursor to wealth was his example of child survival percentage and GDP per capita. As the child survival rate in the United Arab Emirates increased, so did the gross domestic product per person. Rosling also warns that using averages could overlook reality.
+
+## Revised Responce:
+
+(Hook)
+	In Jahans first podcast, he begins by defining human development as the process of enlarging human choices. By this, Jahan means that human development is measured by looking into the choices humans make, determining the outcome of their choice, and what that might mean about that specific human. Later in the podcast, Jahan dives deeper into what the idea of human development means and gives some examples of areas humans need to improve apon, including: the issue of youth employment, gender related work, agriculture work, the informal sector, and post crisis actions. These catagories can capture a glimse of how humans have evolved for the better, or in contrast, for the worst. 
+	Jahan also makes a strong argument stating that human development is development of the people, for the people, and by the people. This is very much true. We the people are interested in developing human capital, because we want to ensure the benefits of development are translated directly into the lives of the people. We are also active participants in the process, wether we know it or not. Rosling also beleives that analyzing human development will imporve the lives of many. However, he warns that the use of averaging data could overlook reality. Jahan hints at this warning in his podcast aswell, but is pasionate about the idea that human development is more than just welfare. Human development should include every single human, and their choices, when tryng to answer big questions. Because agian, human development is done for the people, and by the people. 
+	Both
+ 
+ ## Notes:
 
 1. human development: the process of enlarging human choices 
      1. capabilities of humans have to be enhanced 
@@ -40,12 +54,6 @@
 
 6. work during crisis/ post crisis
 
-## Responce:
-	
-Some of the targeted issues that Jahan examples as requiring focus though out the world include the 
-capabilities of humans, and the opportunities humans choose to exercise their capabilities. He defines human development as the process of enlarging human choices. What Jahan means by this is that human development is measured by looking into the choices humans make, determining the outcome of their choice, and what that might mean about that specific human. The different measures incorporated into the Human Development Index include: healthy life expectancy, knowledge, and standard of living. These measures capture the breadth and focus of each countries average achievement. Jahan used the following metaphor to describe the two different measurements involved in the HDI: the breadth measure serves as the entire house, and the focus measure serves as the doorway to the house. Both together captures the countries’ average achievement. 
-
-An example Rosling presented in his speech that showed health appearing to be a precursor to wealth was his example of child survival percentage and GDP per capita. As the child survival rate in the United Arab Emirates increased, so did the gross domestic product per person. Rosling also warns that using averages could overlook reality. 
 
 
       
