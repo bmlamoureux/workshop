@@ -8,7 +8,6 @@ Brooke Lamoureux
 
 2.[Jahan Responce](https://bmlamoureux.github.io/workshop/jahan) Feb. 4
 
-3.Sen Responce
 
 ### Projects
 
