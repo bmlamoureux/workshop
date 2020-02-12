@@ -16,11 +16,11 @@ Brooke Lamoureux
 ### Formal Assignments 
 
 1. Annoteded Bibliography
--Problem Statement
-  -harms
-  -significancve of those harms
-  -inherent nature of the problem
--Selected LMIC or Region
--Dimention of Human Development
+- Problem Statement
+  - harms
+  - significancve of those harms
+  - inherent nature of the problem
+- Selected LMIC or Region
+- Dimention of Human Development
 
 2. Literature Review
