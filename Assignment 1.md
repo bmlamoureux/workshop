@@ -8,15 +8,15 @@ Feburary 13, 2020
 
 # Assignment 1: Annotated Bibliography
 
-  Problem Statement
+    Problem Statement
 
 Disaster management and relief in low income countries, such as Haiti, are very short of sufficient and can lead to slow responce times and higher mortality rates.
 
-  Source 1
+    Source 1
 
 Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building damage using remote sensing for disaster management: The 2010 Haiti earthquake. *Disaster prevention and management*, *23*(1), 53-66.
 
-  Annotation 1
+    Annotation 1
 
 Haiti, unfortunately, has been victim to many natural disasters in recent history. One of which being a devastating earthquake reaching a magnitude of 7.0 in January of 2010. In a low income country such as Haiti, disaster management falls very short of sufficient. At the time Haiti was the poorest country in the Wesstern Hemisphere. The earthquake had no mercy when it wreaked havoc on the capital, Port-au-Prince, and destroyed about 60% of the city's government buildings and 80% of its schools. In this specific article, the use of automatic mapping was used to measure damage to infrastructure, and provide rapid assessments of building damage. 
 
