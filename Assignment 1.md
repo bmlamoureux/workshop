@@ -10,7 +10,7 @@ Feburary 13, 2020
 
 Problem Statement
 
-
+Disaster management and relief in low income countries, such as Haiti, are very short of sufficient and can lead to slow responce times and higher mortality rates.
 
 Source 1
 
