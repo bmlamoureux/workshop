@@ -15,6 +15,6 @@ Brooke Lamoureux
 
 ### Formal Assignments 
 
-1. [Annoteded Bibliography](https://bmlamoureux.github.io/workshop/assignment1) Feb. 13
+1. [Annoteded Bibliography](https://bmlamoureux.github.io/workshop/assignment_1) Feb. 13
 
 2. Literature Review
