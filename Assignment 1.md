@@ -38,6 +38,7 @@ Yates and Paquette are focusing on partnerships for the goals when attempting to
     
     Source 3
 Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine, 8(8).    
+    
     Annotation 3
     
     
