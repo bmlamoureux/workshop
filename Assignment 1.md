@@ -10,7 +10,7 @@ Feburary 13, 2020
 
     Problem Statement
 
-Disaster management and relief in low income countries, such as Haiti, are very short of sufficient and can lead to slow responce times and higher mortality rates.
+Disaster management and relief in low income countries, such as Haiti, is very short of sufficient and can effect the lives of Haitians due to slow emergency responce times, leading to higher mortality rates.
 
     Source 1
 
