@@ -8,7 +8,7 @@ Brooke Lamoureux
 
 2. [Jahan Responce](https://bmlamoureux.github.io/workshop/jahan) Feb. 4
 
-3. [Anderson, Kitchen Responce](https://bmlamoureux.github.io/workshop/AndersonKitchen)
+3. [Anderson, Kitchen Responce](https://bmlamoureux.github.io/workshop/AndersonKitchen) Feb. 25
 
 ### Projects
 
