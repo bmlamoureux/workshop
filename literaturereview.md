@@ -43,11 +43,11 @@ One gap that proved to hinder was the use of these methods in a more â€œmodernâ€
 
 ## References
 
-[1] Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building   damage using remote sensing for disaster management: The 2010 Haiti earthquake. Disaster prevention and management, 23(1),     53-66.
+  [1] Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building damage using remote sensing for disaster management: The 2010 Haiti earthquake. Disaster prevention and management, 23(1), 53-66.
 
-[2] Yates, D., & Paquette, S. (2011). Emergency knowledge management and social media technologies: A case study of the 2010     Haitian earthquake. International journal of information management, 31(1), 6-13.
+  [2] Yates, D., & Paquette, S. (2011). Emergency knowledge management and social media technologies: A case study of the 2010 Haitian earthquake. International journal of information management, 31(1), 6-13.
 
-[3] Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks     by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine,   8(8).
+  [3] Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks    by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine, 8(8).
 
 
 
