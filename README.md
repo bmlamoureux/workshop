@@ -19,4 +19,4 @@ Brooke Lamoureux
 
 1. [Annoteded Bibliography](https://bmlamoureux.github.io/workshop/Assignment%201) Feb. 13
 
-2. Literature Review
+2. [Literature Review](https://bmlamoureux.github.io/workshop/literaturereview) Apr. 5
