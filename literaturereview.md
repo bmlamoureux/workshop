@@ -43,11 +43,22 @@ One gap that proved to hinder was the use of these methods in a more “modern�
 
 ## References
 
-  [1] Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building damage using remote sensing for disaster management: The 2010 Haiti earthquake. Disaster prevention and management, 23(1), 53-66.
+    [1] Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building damage using remote sensing for disaster management: The 2010 Haiti earthquake. Disaster prevention and management, 23(1), 53-66.
 
-  [2] Yates, D., & Paquette, S. (2011). Emergency knowledge management and social media technologies: A case study of the 2010 Haitian earthquake. International journal of information management, 31(1), 6-13.
+    [2] Yates, D., & Paquette, S. (2011). Emergency knowledge management and social media technologies: A case study of the 2010 Haitian earthquake. International journal of information management, 31(1), 6-13.
 
-  [3] Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks    by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine, 8(8).
+    [3] Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks    by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine, 8(8).
+  
+    [4] Heinzelman, J., & Waters, C. (2010). Crowdsourcing crisis information in disaster-affected Haiti. Washington, DC: US Institute of Peace.
+  
+    [5] Taskin Kaya, G., Musaoglu, N., & Ersoy, O. K. (2011). Damage assessment of 2010 Haiti earthquake with post-earthquake satellite image by support vector selection and adaptation. Photogrammetric Engineering & Remote Sensing, 77(10), 1025-1035.
 
+    [6] Daniell, J. E., Khazai, B., & Wenzel, F. (2013). Uncovering the 2010 Haiti earthquake death toll. Natural Hazards and Earth System Sciences Discussions, 1(3), 1913-1942.
 
-
+    [7] Lundahl, M. (2011). Income and land distribution in Haiti: Some remarks on available statistics. In Poverty in Haiti (pp. 107-124). Palgrave Macmillan, London.
+    
+    [8] Sen, A. (2001). Development as freedom. Oxford Paperbacks.
+    
+    [9] Khan, H., Vasilescu, L. G., & Khan, A. (2008). Disaster management cycle-a theoretical approach. Journal of Management and Marketing, 6(1), 43-50.
+    
+    [10] De Ville de Goyet, C., Grünewald, F., & Sarmiento, J. P. (2011). Health responses to the earthquake in Haiti January 2010: Lessons to be learned for the next massive sudden-onset disaster. Pan American Health Organization (PAHO).
