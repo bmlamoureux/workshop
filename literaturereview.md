@@ -9,4 +9,5 @@ The purpose of this research is to advance the use of different post-disaster ma
   1. The use of automatic mapping to measure infrastructure damage to provide rapid assessments of building damage. 
   2. Estimate the magnitude of population movements after the Haiti 2010 earthquake.
   3. Connect responders on the ground to all information available around the world so they can respond accordingly to how,     when, and where supply resources need to be distributed. 
+
 This work will build on previous traditional methods of response that were time and labor-intensive and only circulated information among a small number of researchers. This method has proved to be effective for a number of years but as the risk of more dangerous natural disasters continues to grow, building upon these techniques with the use of methods mentioned previously will save more lives in low-income countries such as Haiti. 
