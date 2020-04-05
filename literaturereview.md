@@ -41,4 +41,13 @@ there were various reasons for error including limited spectral information of t
 
 One gap that proved to hinder was the use of these methods in a more “modern” light. While I am glad Haiti hasn’t had an earthquake as devastating as the one in 2010, these methods were all tested in 2010 and haven’t quite been tested otherwise. The methods are still though to be modern, considering Haiti hasn’t been hit by another of this magnitude since then, but I’m sure these methods will complement and work side by side along with newer methods in the future. Perhaps I can look at other, more recent, natural disasters and analyze how well they would work in joint with ones I analyzed in this paper. I assume, if Haiti, or any other, low-income country, were to get hit by another devastating 7.0 or higher earthquake, the methods I researched and proposed would still be put into use and save the lives of many many people and improve upon there quality of life and willingness to survive. 
 
+## References
+
+[1] Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building   damage using remote sensing for disaster management: The 2010 Haiti earthquake. Disaster prevention and management, 23(1),     53-66.
+
+[2] Yates, D., & Paquette, S. (2011). Emergency knowledge management and social media technologies: A case study of the 2010     Haitian earthquake. International journal of information management, 31(1), 6-13.
+
+[3] Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks     by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine,   8(8).
+
+
 
