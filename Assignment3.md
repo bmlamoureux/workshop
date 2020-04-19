@@ -25,7 +25,7 @@ INSERT EQUATION
 Where pi and pj refer to the population size at an origin i and a destination j, while dij is the distance between origin i and destination j. Also, the exponents α, β, and γ are unknown and estimated from the data.
 
 
-![
+![Figure_1.] 
 
 Results from SIM card tracking were compared to results gained from the Haitian National Civil Protection Agency and their post-earthquake survey. The HNCPA survey included 2,500 households averaging 4.9 persons. The survey asked questions such as “Did you leave the metropolitan area after January 12 (earthquake day) even if it was for a short time?” and “to what department (province) did you go to?” This survey conducted by the HNCPA is subject to individual interpretation. For comparison, the SIM card tracking method was much more effective and efficient. It produced results within a day. By tracking the movement of people from their original location to their location after the earthquake, rescuers were able to pinpoint exactly where to get supplies, making disaster management and response much faster. The previous use of survey data proved to be less effective than the modern approach of SIM card tracking.
 
