@@ -41,3 +41,13 @@ Thi-Thanh-Hiên Pham and colleagues bring to light the use of optical images (15
 ## Method Overviews 
 
 Throughout this research process, I have learned many things and have a good idea about what Haiti, among many other low-income countries that should follow suit, should do if they want to improve their quality of life and defense against natural disasters. I have read and analyzed many areas that need to be improved upon including but not limited to infrastructure buildings and traditional post-disaster survey methods. I have also analyzed methods that can be put in place to improve some of these shortfalls for future disaster management including cell phone SIM card movements and remoting sensing technology. Natural disasters such as earthquakes cannot be controlled, but the steps taken after them can be, and it is the world’s job to aid and assist low-income countries such as Haiti when figuring the right methods to put in place for future disasters. 
+
+
+## References
+
+    Pham, T. T. H., Apparicio, P., Gomez, C., Weber, C., & Mathon, D. (2014). Towards a rapid automatic detection of building damage using remote sensing for disaster management: The 2010 Haiti earthquake. Disaster prevention and management, 23(1), 53-66.
+
+    Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Von Schreeb, J. (2011). Improved response to disasters and outbreaks by tracking population movements with mobile phone network data: a post-earthquake geospatial study in Haiti. PLoS medicine, 8(8).
+
+
+    Andres J. Garcia, Deepa K. Pindolia, Kenneth K. Lopiano, Andrew J. Tatem, Modeling internal migration flows in sub-Saharan Africa using census microdata, Migration Studies, Volume 3, Issue 1, March 2015, Pages 89–110
