@@ -19,8 +19,7 @@ This research is purely evaluative. It is evaluative because it is seeking to ju
 
 One geospatial data science method that was used after the 2010, 7.0 magnitude earthquake in Haiti was the use of cell phone SIM cards to track the movement of populations after the devastation, also known as a gravity-type spatial interaction model. “We followed daily positions of SIM cards 42 days before the earthquake and 158 days after … We used this ratio to extrapolate from the number of moving SIM cards to the number of moving persons” (Bengtsson, 2011) There are push-pull factors to keep in mind. In this research, the push factor, being the earthquake, and the pull factor, being the promise of unharmed locations are being considered. The data from the SIM cards are taken and plugged into a modern gravity-type algorithm represented by the flux migration of MIGij, and can be shown in figure 1 below. 
 
-
-INSERT EQUATION
+![](algorithm.png) 
 
 Where pi and pj refer to the population size at an origin i and a destination j, while dij is the distance between origin i and destination j. Also, the exponents α, β, and γ are unknown and estimated from the data.
 
