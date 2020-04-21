@@ -25,4 +25,4 @@ Brooke Lamoureux
 
 ### In Class Essay
 
-1. [In Class Essay 2](
+1. [In Class Essay 2](https://bmlamoureux.github.io/workshop/essay2) Apr. 21
