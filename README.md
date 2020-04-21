@@ -22,3 +22,7 @@ Brooke Lamoureux
 2. [Literature Review](https://bmlamoureux.github.io/workshop/literaturereview) Apr. 5
 
 3. [Investigated Methodology](https://bmlamoureux.github.io/workshop/Assignment3) Apr. 19
+
+### In Class Essay
+
+1. [In Class Essay 2](
