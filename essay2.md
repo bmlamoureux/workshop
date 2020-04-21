@@ -1,5 +1,4 @@
-# Question: How  did  the  transformation  of  the  City  of  God  provide  evidence  for  how  social
-networks were central to Rio de Janeiro’s urbanization during the 60s, 70s & 80s?
+# Question: How  did  the  transformation  of  the  City  of  God  provide  evidence  for  how  social networks were central to Rio de Janeiro’s urbanization during the 60s, 70s & 80s?
 
 # Response 
 
