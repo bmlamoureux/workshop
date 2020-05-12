@@ -23,8 +23,7 @@ Brooke Lamoureux
 
 3. [Investigated Methodology](https://bmlamoureux.github.io/workshop/Assignment3) Apr. 19
 
-4. [Research Proposal](
-
+4. [Research Proposal](https://bmlamoureux.github.io/workshop/Research%20Plan) 
 ### In Class Essay
 
 1. [In Class Essay 2](https://bmlamoureux.github.io/workshop/essay2) Apr. 21
